@@ -6,10 +6,6 @@
 npm create vue@latest
 ```
 
-## 引入组件库shadcn-vue
-
-[官方网站](https://www.shadcn-vue.com/docs/introduction.html)
-
 ## 其他笔记
 
 ### npm的--save和--save-dev的区别
